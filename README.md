@@ -1,4 +1,4 @@
-# Ex 6 Metadata-Extraction-using-ExifTool-log2timeline-and-Hidden-Data-Search-using-Steganography-Tools
+# Ex - 6 - Metadata-Extraction-using-ExifTool-log2timeline-and-Hidden-Data-Search-using-Steganography-Tools
 
 ## NAME: VIGNESH S
 
